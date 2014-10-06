@@ -1,0 +1,7 @@
+cmake_minimum_required (VERSION 2.8)
+project (forelesning03)
+add_definitions(-std=c11)
+add_executable(exercise1.out exercise1.c)
+#add_executable(exercise2.out exercise2.c)
+#add_executable(exercise3.out exercise3.c)
+#add_executable(exercise4.out exercise4.c)
